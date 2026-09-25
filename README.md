@@ -32,7 +32,7 @@
 name        : "Aya Abdelmaged Ghallab"
 role        : "AI Engineer — ML / DL / NLP / RAG / Generative AI"
 education   : "B.Sc. Computer Science & Engineering (AI), Alamein International University"
-graduation  : "Expected June 2026"
+graduation  : " June 2026"
 location    : "Cairo, Egypt"
 status      : "Open to Junior AI Engineer / Computer Vision roles"
 
